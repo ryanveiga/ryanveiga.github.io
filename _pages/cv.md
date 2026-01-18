@@ -13,6 +13,19 @@ redirect_from:
 
 * Ph.D in Economics, University of Wisconsin - Madison, 2020
 * B.S. in Physics, Tufts University, 2008
+  
+# Skills
+
+* R
+* Python
+* Statistics
+* Github
+
+# Teaching
+
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 # Work experience
 
@@ -24,13 +37,15 @@ redirect_from:
     * Presenting Workshops on R Programming
   * Supervisor: Kyle M. Monahan
 
-  
-# Skills
+* July 2021 - October 2024: Institutional Research Analyst
+* Suffolk University
+- Constructed statistical models to predict admitted student yield, bar passage, honors offer impacts, scholarship impacts, housing occupancy, etc.
+- Worked with external partners to develop and interpret machine learning models to predict student retention
+- Provided internal data analysis, visualization, and dashboards to guide strategic planning and internal program evaluation
+- Designed and implemented surveys in Qualtrics
+- Participated in committees to guide university policy  
 
-* R
-* Python
-* Statistics
-* Github
+
 
 # Publications
 
@@ -42,11 +57,5 @@ redirect_from:
 
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-# Teaching
-
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
