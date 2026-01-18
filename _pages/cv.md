@@ -37,13 +37,14 @@ redirect_from:
     * Presenting Workshops on R Programming
   * Supervisor: Kyle M. Monahan
 
+
 * July 2021 - October 2024: Institutional Research Analyst
-* Suffolk University
-- Constructed statistical models to predict admitted student yield, bar passage, honors offer impacts, scholarship impacts, housing occupancy, etc.
-- Worked with external partners to develop and interpret machine learning models to predict student retention
-- Provided internal data analysis, visualization, and dashboards to guide strategic planning and internal program evaluation
-- Designed and implemented surveys in Qualtrics
-- Participated in committees to guide university policy  
+  * Suffolk University
+    - Constructed statistical models to predict admitted student yield, bar passage, honors offer impacts, scholarship impacts, housing occupancy, etc.
+    - Worked with external partners to develop and interpret machine learning models to predict student retention
+    - Provided internal data analysis, visualization, and dashboards to guide strategic planning and internal program evaluation
+    - Designed and implemented surveys in Qualtrics
+    - Participated in committees to guide university policy  
 
 
 
