@@ -27,10 +27,10 @@ author:
   name             : "Ryan Veiga"
   pronouns         : # example: "she/her"  
   bio              : "Data Science Specialist"
-  location         : "Massachusetts"
+  location         : "Cambridge, Massachusetts"
   employer         : "Tufts University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ryan.veiga@tufts.edu" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ryanveiga"
+  github           : # "ryanveiga"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -138,7 +138,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
