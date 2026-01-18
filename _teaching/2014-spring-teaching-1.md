@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "UEP 194-03 Introduction to R"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Tufts University, Department of Urban and Environmental Policy and Planning"
+date: "Fall 2025"
+location: "Medford, MA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introductory course in R programming for data analysis and research.
 
 Heading 1
 ======
